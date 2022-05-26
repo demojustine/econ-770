@@ -1,0 +1,1112 @@
+ind,year,p,nva,rva
+        Gross domestic product,2010,96.164,15049.0,15649.30743313506
+        Gross domestic product,2011,98.157,15599.7,15892.600629603596
+        Gross domestic product,2012,100.0,16254.0,16254.0
+        Gross domestic product,2013,101.769,16843.2,16550.42301683224
+        Gross domestic product,2014,103.662,17550.7,16930.697844919065
+        Gross domestic product,2015,104.662,18206.0,17395.04309109323
+        Gross domestic product,2016,105.703,18695.1,17686.442201262023
+        Gross domestic product,2017,107.742,19479.6,18079.857437211114
+        Gross domestic product,2018,110.326,20527.2,18605.949640157352
+        Gross domestic product,2019,112.279,21372.6,19035.260378165105
+        Gross domestic product,2020,113.74,20893.7,18369.702831018112
+Private industries,2010,95.759,12941.0,13514.134441671278
+Private industries,2011,97.926,13462.7,13747.829994077161
+Private industries,2012,100.0,14094.5,14094.5
+Private industries,2013,101.888,14630.7,14359.590923366835
+Private industries,2014,103.623,15279.3,14745.085550505197
+Private industries,2015,104.4,15866.6,15197.892720306514
+Private industries,2016,105.446,16310.9,15468.486239402158
+Private industries,2017,107.444,17032.6,15852.537135624138
+Private industries,2018,109.92,17980.9,16358.16957787482
+Private industries,2019,111.788,18750.8,16773.535620996885
+Private industries,2020,112.89,18223.1,16142.350961112586
+"    Agriculture, forestry, fishing, and hunting",2010,75.642,144.9,191.5602443087174
+"    Agriculture, forestry, fishing, and hunting",2011,97.221,179.2,184.32231719484471
+"    Agriculture, forestry, fishing, and hunting",2012,100.0,178.7,178.7
+"    Agriculture, forestry, fishing, and hunting",2013,103.264,214.3,207.526340254106
+"    Agriculture, forestry, fishing, and hunting",2014,95.368,198.9,208.56052344601963
+"    Agriculture, forestry, fishing, and hunting",2015,81.194,180.1,221.81441978471315
+"    Agriculture, forestry, fishing, and hunting",2016,70.708,165.8,234.48548961927932
+"    Agriculture, forestry, fishing, and hunting",2017,76.16,175.9,230.96113445378154
+"    Agriculture, forestry, fishing, and hunting",2018,73.826,175.6,237.85658169208682
+"    Agriculture, forestry, fishing, and hunting",2019,72.794,162.6,223.3700579718109
+"    Agriculture, forestry, fishing, and hunting",2020,68.536,174.5,254.61071553636046
+        Farms,2010,71.433,116.2,162.66991446530315
+        Farms,2011,96.842,150.4,155.30451663534419
+        Farms,2012,100.0,148.0,148.0
+        Farms,2013,103.022,183.3,177.92316204305874
+        Farms,2014,93.103,166.0,178.2971547640785
+        Farms,2015,76.448,145.2,189.9330263708665
+        Farms,2016,63.977,129.9,203.04171811744848
+        Farms,2017,70.331,139.4,198.20562767485177
+        Farms,2018,67.337,137.1,203.60277410636053
+        Farms,2019,66.06,123.0,186.19436875567663
+        Farms,2020,60.928,134.7,221.08061974789916
+"        Forestry, fishing, and related activities",2010,98.479,28.7,29.143269123366405
+"        Forestry, fishing, and related activities",2011,99.141,28.8,29.049535510031166
+"        Forestry, fishing, and related activities",2012,100.0,30.7,30.7
+"        Forestry, fishing, and related activities",2013,104.635,31.0,29.62679791656711
+"        Forestry, fishing, and related activities",2014,108.828,32.9,30.231190502444218
+"        Forestry, fishing, and related activities",2015,109.249,34.9,31.945372497688766
+"        Forestry, fishing, and related activities",2016,110.935,36.0,32.45143552530761
+"        Forestry, fishing, and related activities",2017,110.784,36.5,32.94699595609474
+"        Forestry, fishing, and related activities",2018,112.405,38.5,34.25114541168097
+"        Forestry, fishing, and related activities",2019,112.709,39.6,35.13472748405185
+"        Forestry, fishing, and related activities",2020,113.321,39.9,35.209713998288045
+    Mining,2010,98.851,306.4,309.96145714256807
+    Mining,2011,111.025,357.8,322.2697590632741
+    Mining,2012,100.0,360.5,360.5
+    Mining,2013,103.671,387.8,374.0679650046783
+    Mining,2014,100.613,417.0,414.45936409807877
+    Mining,2015,57.996,261.7,451.23801641492514
+    Mining,2016,51.045,218.1,427.2700558330884
+    Mining,2017,63.498,276.9,436.07672682604175
+    Mining,2018,73.306,320.1,436.6627561181896
+    Mining,2019,60.553,295.7,488.33253513451024
+    Mining,2020,41.522,182.1,438.5626896584943
+        Oil and gas extraction,2010,103.87,189.1,182.0544911909117
+        Oil and gas extraction,2011,119.834,219.0,182.7528080511374
+        Oil and gas extraction,2012,100.0,224.9,224.9
+        Oil and gas extraction,2013,107.921,256.0,237.2105521631564
+        Oil and gas extraction,2014,103.65,278.7,268.88567293777135
+        Oil and gas extraction,2015,43.522,158.1,363.26455585680804
+        Oil and gas extraction,2016,36.137,138.6,383.54041564047924
+        Oil and gas extraction,2017,49.054,176.7,360.21527296448807
+        Oil and gas extraction,2018,62.048,205.9,331.83986591026303
+        Oil and gas extraction,2019,45.736,182.7,399.4665034108798
+        Oil and gas extraction,2020,23.804,97.7,410.4352209712654
+"        Mining, except oil and gas",2010,92.295,69.7,75.51871715694242
+"        Mining, except oil and gas",2011,101.683,76.7,75.4305046074565
+"        Mining, except oil and gas",2012,100.0,67.0,67.0
+"        Mining, except oil and gas",2013,91.05,62.3,68.42394288852279
+"        Mining, except oil and gas",2014,87.612,58.9,67.22823357530932
+"        Mining, except oil and gas",2015,80.558,50.0,62.0670821023362
+"        Mining, except oil and gas",2016,78.923,47.4,60.05853806875055
+"        Mining, except oil and gas",2017,88.203,56.8,64.39690259968482
+"        Mining, except oil and gas",2018,92.339,58.5,63.353512600309735
+"        Mining, except oil and gas",2019,91.74,59.2,64.5301940265969
+"        Mining, except oil and gas",2020,94.713,56.7,59.86506604162048
+        Support activities for mining,2010,90.758,47.6,52.4471671918729
+        Support activities for mining,2011,94.599,62.0,65.5398048605165
+        Support activities for mining,2012,100.0,68.6,68.6
+        Support activities for mining,2013,101.771,69.4,68.19231411698814
+        Support activities for mining,2014,103.334,79.5,76.93498751620957
+        Support activities for mining,2015,104.038,53.6,51.5196370556912
+        Support activities for mining,2016,99.271,32.1,32.335727453133345
+        Support activities for mining,2017,100.034,43.4,43.385249015334786
+        Support activities for mining,2018,91.266,55.8,61.139964499375445
+        Support activities for mining,2019,92.206,53.8,58.347612953603885
+        Support activities for mining,2020,86.632,27.7,31.974328192815584
+    Utilities,2010,104.787,279.1,266.3498334717093
+    Utilities,2011,104.094,288.3,276.96120813879764
+    Utilities,2012,100.0,280.7,280.7
+    Utilities,2013,103.521,286.9,277.1418359559896
+    Utilities,2014,112.039,298.3,266.2465748533993
+    Utilities,2015,112.328,299.2,266.3627946727441
+    Utilities,2016,107.578,302.0,280.72654260164717
+    Utilities,2017,109.678,311.6,284.10437827093864
+    Utilities,2018,112.693,319.0,283.06993335877115
+    Utilities,2019,116.31,333.3,286.5617745679649
+    Utilities,2020,114.456,341.7,298.5426714195848
+    Construction,2010,95.879,525.7,548.295247134409
+    Construction,2011,97.346,525.6,539.9297351714504
+    Construction,2012,100.0,554.9,554.9
+    Construction,2013,103.593,588.7,568.2816406513954
+    Construction,2014,110.115,637.7,579.1218271806748
+    Construction,2015,114.912,695.3,605.0717070453911
+    Construction,2016,119.033,747.7,628.1451362227282
+    Construction,2017,123.064,800.6,650.5558083598778
+    Construction,2018,127.254,847.1,665.6765209738004
+    Construction,2019,133.918,903.6,674.741259576756
+    Construction,2020,137.732,895.9,650.4661226149333
+    Manufacturing,2010,92.954,1799.8,1936.22652064462
+    Manufacturing,2011,96.266,1873.6,1946.2738661625078
+    Manufacturing,2012,100.0,1934.7,1934.7
+    Manufacturing,2013,100.284,1997.3,1991.6437318016833
+    Manufacturing,2014,101.473,2053.5,2023.6910311117244
+    Manufacturing,2015,104.142,2131.0,2046.2445507096081
+    Manufacturing,2016,103.068,2102.9,2040.3034889587457
+    Manufacturing,2017,104.315,2199.3,2108.3257441403443
+    Manufacturing,2018,106.339,2334.1,2194.9613970415367
+    Manufacturing,2019,106.133,2370.9,2233.895206957309
+    Manufacturing,2020,104.805,2272.0,2167.835504031296
+        Durable goods,2010,99.658,965.5,968.813341628369
+        Durable goods,2011,98.287,1017.9,1035.6405221443324
+        Durable goods,2012,100.0,1065.2,1065.2
+        Durable goods,2013,101.299,1104.5,1090.3365284948518
+        Durable goods,2014,102.604,1135.6,1106.779462788975
+        Durable goods,2015,105.373,1184.4,1124.0070985926186
+        Durable goods,2016,105.486,1187.8,1126.0262025292454
+        Durable goods,2017,105.346,1235.4,1172.7070795284112
+        Durable goods,2018,105.652,1298.9,1229.4135463597472
+        Durable goods,2019,107.161,1327.9,1239.1635016470545
+        Durable goods,2020,107.685,1268.8,1178.251381343734
+            Wood products,2010,101.668,23.3,22.917732226462604
+            Wood products,2011,93.098,23.7,25.45704526413027
+            Wood products,2012,100.0,25.8,25.8
+            Wood products,2013,115.363,30.5,26.43828610559712
+            Wood products,2014,127.804,31.0,24.25589183437138
+            Wood products,2015,122.577,32.5,26.513946335772616
+            Wood products,2016,125.093,35.3,28.21900506023518
+            Wood products,2017,130.729,37.9,28.991272020745203
+            Wood products,2018,142.279,39.2,27.551500924240404
+            Wood products,2019,135.376,39.9,29.4734664933223
+            Wood products,2020,148.547,42.2,28.40851716965001
+            Nonmetallic mineral products,2010,99.152,38.4,38.72841697595611
+            Nonmetallic mineral products,2011,96.007,38.9,40.5178789046632
+            Nonmetallic mineral products,2012,100.0,42.7,42.7
+            Nonmetallic mineral products,2013,104.428,47.2,45.1986057379247
+            Nonmetallic mineral products,2014,108.211,49.6,45.836375229874974
+            Nonmetallic mineral products,2015,117.921,54.7,46.38698789867793
+            Nonmetallic mineral products,2016,124.852,57.5,46.054528561817186
+            Nonmetallic mineral products,2017,125.366,61.8,49.295662300783306
+            Nonmetallic mineral products,2018,127.935,62.8,49.087427209129636
+            Nonmetallic mineral products,2019,131.078,65.1,49.6650849112742
+            Nonmetallic mineral products,2020,135.261,66.8,49.38600187785097
+            Primary metals,2010,100.119,50.9,50.83950099381735
+            Primary metals,2011,110.835,62.6,56.48035367889205
+            Primary metals,2012,100.0,65.8,65.8
+            Primary metals,2013,89.741,62.5,69.64486689473038
+            Primary metals,2014,94.12,64.2,68.21079473013175
+            Primary metals,2015,80.414,60.1,74.73822966150173
+            Primary metals,2016,71.727,56.9,79.32856525436725
+            Primary metals,2017,83.493,59.1,70.78437713341239
+            Primary metals,2018,92.101,67.1,72.85480070791847
+            Primary metals,2019,83.052,66.2,79.70909791455955
+            Primary metals,2020,64.007,58.3,91.08378771071914
+            Fabricated metal products,2010,95.52,120.0,125.6281407035176
+            Fabricated metal products,2011,95.376,127.4,133.57658111055193
+            Fabricated metal products,2012,100.0,138.0,138.0
+            Fabricated metal products,2013,103.511,141.9,137.08687965530234
+            Fabricated metal products,2014,103.304,144.1,139.49121040811585
+            Fabricated metal products,2015,109.421,147.4,134.7090595041171
+            Fabricated metal products,2016,111.459,146.0,130.98987071479198
+            Fabricated metal products,2017,108.101,149.9,138.66661733008945
+            Fabricated metal products,2018,109.248,155.4,142.2451669595782
+            Fabricated metal products,2019,115.12,162.9,141.50451702571232
+            Fabricated metal products,2020,118.292,145.8,123.2543198187536
+            Machinery,2010,96.273,127.3,132.2281428853365
+            Machinery,2011,95.711,144.9,151.3932567834418
+            Machinery,2012,100.0,153.0,153.0
+            Machinery,2013,104.259,158.5,152.02524482298892
+            Machinery,2014,107.17,161.1,150.32191844732665
+            Machinery,2015,113.054,152.5,134.89129088754046
+            Machinery,2016,115.879,143.8,124.09496112324064
+            Machinery,2017,114.385,153.7,134.37076539756086
+            Machinery,2018,113.657,161.9,142.4461317824683
+            Machinery,2019,119.202,167.5,140.51777654737336
+            Machinery,2020,122.926,157.6,128.20721409628555
+            Computer and electronic products,2010,105.755,240.2,227.12874095787433
+            Computer and electronic products,2011,102.192,237.8,232.69923281665885
+            Computer and electronic products,2012,100.0,241.3,241.3
+            Computer and electronic products,2013,98.462,244.6,248.42071052791937
+            Computer and electronic products,2014,96.295,251.5,261.17659276182565
+            Computer and electronic products,2015,94.747,267.5,282.3308389711548
+            Computer and electronic products,2016,92.103,268.1,291.087152427174
+            Computer and electronic products,2017,91.579,279.9,305.63775538060037
+            Computer and electronic products,2018,90.61,304.7,336.27634918883126
+            Computer and electronic products,2019,90.308,307.7,340.7228595473269
+            Computer and electronic products,2020,90.421,317.3,350.9140575751208
+"            Electrical equipment, appliances, and components",2010,96.201,50.8,52.806103886653986
+"            Electrical equipment, appliances, and components",2011,94.662,48.3,51.02364201052164
+"            Electrical equipment, appliances, and components",2012,100.0,52.2,52.2
+"            Electrical equipment, appliances, and components",2013,101.314,58.1,57.34646741812583
+"            Electrical equipment, appliances, and components",2014,101.551,54.4,53.56914259830037
+"            Electrical equipment, appliances, and components",2015,103.633,63.7,61.4669072592707
+"            Electrical equipment, appliances, and components",2016,103.096,58.5,56.743229611236124
+"            Electrical equipment, appliances, and components",2017,101.859,60.8,59.69035627681403
+"            Electrical equipment, appliances, and components",2018,105.687,65.1,61.59697976099236
+"            Electrical equipment, appliances, and components",2019,110.019,65.0,59.08070424199457
+"            Electrical equipment, appliances, and components",2020,110.125,63.6,57.75255391600454
+"            Motor vehicles, bodies and trailers, and parts",2010,101.908,88.8,87.13741806335126
+"            Motor vehicles, bodies and trailers, and parts",2011,94.634,104.5,110.42542849293066
+"            Motor vehicles, bodies and trailers, and parts",2012,100.0,115.8,115.8
+"            Motor vehicles, bodies and trailers, and parts",2013,102.025,123.1,120.65670178877724
+"            Motor vehicles, bodies and trailers, and parts",2014,105.915,132.8,125.38356229051598
+"            Motor vehicles, bodies and trailers, and parts",2015,118.647,146.3,123.30695255674395
+"            Motor vehicles, bodies and trailers, and parts",2016,120.601,155.5,128.9375709985821
+"            Motor vehicles, bodies and trailers, and parts",2017,117.906,158.4,134.3443081777009
+"            Motor vehicles, bodies and trailers, and parts",2018,112.816,157.8,139.8737767692526
+"            Motor vehicles, bodies and trailers, and parts",2019,112.292,158.7,141.32796637338367
+"            Motor vehicles, bodies and trailers, and parts",2020,111.917,154.6,138.13808447331505
+            Other transportation equipment,2010,97.051,120.8,124.47063914848894
+            Other transportation equipment,2011,98.17,127.2,129.57115208312112
+            Other transportation equipment,2012,100.0,126.9,126.9
+            Other transportation equipment,2013,102.279,133.4,130.42755599878765
+            Other transportation equipment,2014,104.443,139.4,133.4699309671304
+            Other transportation equipment,2015,107.139,149.2,139.25834663381212
+            Other transportation equipment,2016,108.32,148.4,137.00147710487445
+            Other transportation equipment,2017,108.799,152.9,140.53437991158006
+            Other transportation equipment,2018,109.161,158.7,145.38159232692993
+            Other transportation equipment,2019,111.232,165.7,148.9679228998849
+            Other transportation equipment,2020,113.52,130.5,114.95771670190275
+            Furniture and related products,2010,96.584,21.8,22.571026256936968
+            Furniture and related products,2011,95.854,22.0,22.951572182694516
+            Furniture and related products,2012,100.0,22.4,22.4
+            Furniture and related products,2013,100.298,24.0,23.928692496360846
+            Furniture and related products,2014,101.145,25.8,25.50793415393742
+            Furniture and related products,2015,106.748,29.2,27.354142466369392
+            Furniture and related products,2016,109.321,30.3,27.7165411951958
+            Furniture and related products,2017,108.612,29.9,27.529186461901077
+            Furniture and related products,2018,107.652,31.1,28.88938431241408
+            Furniture and related products,2019,113.892,32.3,28.36020089207319
+            Furniture and related products,2020,118.64,31.5,26.550910316925155
+            Miscellaneous manufacturing,2010,98.627,83.2,84.35823861620044
+            Miscellaneous manufacturing,2011,98.141,80.5,82.02484180923365
+            Miscellaneous manufacturing,2012,100.0,81.4,81.4
+            Miscellaneous manufacturing,2013,101.611,80.6,79.32212063654525
+            Miscellaneous manufacturing,2014,101.433,81.8,80.6443662318969
+            Miscellaneous manufacturing,2015,104.959,81.3,77.45881725245096
+            Miscellaneous manufacturing,2016,105.936,87.5,82.59703972209635
+            Miscellaneous manufacturing,2017,105.372,91.2,86.55050677599363
+            Miscellaneous manufacturing,2018,105.205,95.1,90.39494320612138
+            Miscellaneous manufacturing,2019,109.716,96.9,88.31893251667944
+            Miscellaneous manufacturing,2020,113.11,100.6,88.93996994076562
+        Nondurable goods,2010,85.581,834.3,974.8659165001576
+        Nondurable goods,2011,93.88,855.7,911.4827439284194
+        Nondurable goods,2012,100.0,869.5,869.5
+        Nondurable goods,2013,99.05,892.8,901.3629480060575
+        Nondurable goods,2014,100.1,917.9,916.983016983017
+        Nondurable goods,2015,102.645,946.6,922.2076087485997
+        Nondurable goods,2016,100.12,915.1,914.0031961646024
+        Nondurable goods,2017,103.092,963.8,934.8931051875993
+        Nondurable goods,2018,107.29,1035.3,964.9547954142977
+        Nondurable goods,2019,104.927,1043.0,994.0244169756115
+        Nondurable goods,2020,101.333,1003.1,989.9045720545133
+            Food and beverage and tobacco products,2010,95.51,223.5,234.00691027117577
+            Food and beverage and tobacco products,2011,92.378,209.8,227.11035094936022
+            Food and beverage and tobacco products,2012,100.0,220.1,220.1
+            Food and beverage and tobacco products,2013,101.679,228.5,224.72683641656585
+            Food and beverage and tobacco products,2014,105.978,238.9,225.42414463379194
+            Food and beverage and tobacco products,2015,111.593,261.9,234.69214018800457
+            Food and beverage and tobacco products,2016,116.007,264.7,228.17588593791749
+            Food and beverage and tobacco products,2017,111.442,267.4,239.94544247231744
+            Food and beverage and tobacco products,2018,107.833,265.2,245.93584524218002
+            Food and beverage and tobacco products,2019,110.405,277.8,251.61903899279926
+            Food and beverage and tobacco products,2020,118.167,289.8,245.2461347076595
+            Textile mills and textile product mills,2010,93.511,15.6,16.682529328100436
+            Textile mills and textile product mills,2011,102.228,15.1,14.770904253237862
+            Textile mills and textile product mills,2012,100.0,16.0,16.0
+            Textile mills and textile product mills,2013,99.1,16.8,16.95257315842583
+            Textile mills and textile product mills,2014,100.854,17.8,17.649275189878438
+            Textile mills and textile product mills,2015,103.834,17.9,17.239054644913995
+            Textile mills and textile product mills,2016,105.53,18.6,17.625319814270828
+            Textile mills and textile product mills,2017,102.736,17.7,17.228624824793645
+            Textile mills and textile product mills,2018,103.185,16.7,16.18452294422639
+            Textile mills and textile product mills,2019,103.899,16.8,16.169549273813992
+            Textile mills and textile product mills,2020,104.24,15.3,14.677666922486571
+            Apparel and leather and allied products,2010,98.021,10.4,10.609971332673611
+            Apparel and leather and allied products,2011,96.783,10.1,10.435717016418172
+            Apparel and leather and allied products,2012,100.0,10.0,10.0
+            Apparel and leather and allied products,2013,101.998,10.2,10.000196082276121
+            Apparel and leather and allied products,2014,103.5,9.9,9.56521739130435
+            Apparel and leather and allied products,2015,108.041,9.7,8.978073138900973
+            Apparel and leather and allied products,2016,110.018,9.6,8.725844861749895
+            Apparel and leather and allied products,2017,110.386,9.4,8.515572626963564
+            Apparel and leather and allied products,2018,111.251,9.3,8.359475420445659
+            Apparel and leather and allied products,2019,114.49,9.3,8.122980172940869
+            Apparel and leather and allied products,2020,114.493,9.8,8.559475251762118
+            Paper products,2010,100.973,56.4,55.856516098362924
+            Paper products,2011,100.151,53.8,53.718884484428514
+            Paper products,2012,100.0,53.2,53.2
+            Paper products,2013,105.559,56.5,53.52456919826827
+            Paper products,2014,105.513,56.8,53.83222920398433
+            Paper products,2015,109.378,59.7,54.58136005412423
+            Paper products,2016,109.403,58.4,53.38062027549518
+            Paper products,2017,113.373,55.4,48.86525010364019
+            Paper products,2018,114.925,59.2,51.5118555579726
+            Paper products,2019,114.66,59.7,52.06698063840921
+            Paper products,2020,108.229,59.7,55.160816417041644
+            Printing and related support activities,2010,105.051,39.5,37.60078438091974
+            Printing and related support activities,2011,100.512,38.8,38.60235593759949
+            Printing and related support activities,2012,100.0,38.4,38.4
+            Printing and related support activities,2013,99.766,39.0,39.0914740492753
+            Printing and related support activities,2014,100.894,39.1,38.75354332269511
+            Printing and related support activities,2015,107.014,40.2,37.56517838787449
+            Printing and related support activities,2016,107.943,41.2,38.16829252475844
+            Printing and related support activities,2017,107.238,40.6,37.85971390738358
+            Printing and related support activities,2018,106.112,41.3,38.92113992762365
+            Printing and related support activities,2019,109.571,41.3,37.6924551204242
+            Printing and related support activities,2020,111.785,39.6,35.42514648655902
+            Petroleum and coal products,2010,58.118,123.8,213.01490071922638
+            Petroleum and coal products,2011,90.505,159.1,175.79139274073256
+            Petroleum and coal products,2012,100.0,159.1,159.1
+            Petroleum and coal products,2013,85.693,151.3,176.56051252727764
+            Petroleum and coal products,2014,80.665,158.2,196.11975454038304
+            Petroleum and coal products,2015,73.336,145.6,198.5382349732737
+            Petroleum and coal products,2016,50.207,85.7,170.6933296153923
+            Petroleum and coal products,2017,65.019,132.0,203.0175794767683
+            Petroleum and coal products,2018,82.787,185.9,224.5521639870994
+            Petroleum and coal products,2019,66.955,163.6,244.34321559256216
+            Petroleum and coal products,2020,46.188,113.7,246.1678358015069
+            Chemical products,2010,87.27,303.3,347.54211069095913
+            Chemical products,2011,94.118,306.0,325.1237807858221
+            Chemical products,2012,100.0,305.0,305.0
+            Chemical products,2013,102.306,321.5,314.2533184759447
+            Chemical products,2014,105.455,330.0,312.92968564790675
+            Chemical products,2015,110.471,333.3,301.708140597985
+            Chemical products,2016,113.296,357.0,315.1037988984607
+            Chemical products,2017,116.937,362.9,310.3380452722406
+            Chemical products,2018,120.184,375.8,312.6872129401584
+            Chemical products,2019,121.184,391.0,322.6498547663058
+            Chemical products,2020,120.465,394.6,327.5640227451957
+            Plastics and rubber products,2010,91.31,61.8,67.68152447705617
+            Plastics and rubber products,2011,94.969,63.1,66.44273394476093
+            Plastics and rubber products,2012,100.0,67.7,67.7
+            Plastics and rubber products,2013,102.585,69.1,67.35877564946142
+            Plastics and rubber products,2014,100.014,67.2,67.19059331693563
+            Plastics and rubber products,2015,105.786,78.3,74.01735579377232
+            Plastics and rubber products,2016,106.074,79.9,75.32477327148972
+            Plastics and rubber products,2017,103.09,78.3,75.95305073236977
+            Plastics and rubber products,2018,103.15,81.9,79.39893359185652
+            Plastics and rubber products,2019,106.551,83.7,78.55393191992567
+            Plastics and rubber products,2020,106.801,80.6,75.46745816986731
+    Wholesale trade,2010,94.182,890.0,944.9788706971608
+    Wholesale trade,2011,96.941,937.1,966.6704490360116
+    Wholesale trade,2012,100.0,1000.3,1000.3
+    Wholesale trade,2013,102.079,1042.2,1020.9739515473311
+    Wholesale trade,2014,102.732,1089.6,1060.6237589066698
+    Wholesale trade,2015,103.411,1143.6,1105.8784848807186
+    Wholesale trade,2016,104.025,1135.8,1091.8529199711606
+    Wholesale trade,2017,106.2,1165.7,1097.6459510357815
+    Wholesale trade,2018,109.698,1217.4,1109.774107094022
+    Wholesale trade,2019,115.424,1275.0,1104.6229553645687
+    Wholesale trade,2020,114.708,1243.3,1083.8825539631064
+    Retail trade,2010,94.555,852.1,901.168632013114
+    Retail trade,2011,96.663,873.1,903.2411574232126
+    Retail trade,2012,100.0,910.0,910.0
+    Retail trade,2013,101.371,950.6,937.7435361197977
+    Retail trade,2014,102.097,975.1,955.072137281213
+    Retail trade,2015,102.986,1020.3,990.7171848600781
+    Retail trade,2016,102.474,1053.0,1027.5777270331987
+    Retail trade,2017,101.868,1081.6,1061.7662072485962
+    Retail trade,2018,102.204,1119.7,1095.5539900590977
+    Retail trade,2019,103.897,1166.7,1122.9390646505674
+    Retail trade,2020,110.244,1202.2,1090.4901854069155
+        Motor vehicle and parts dealers,2010,96.837,141.3,145.91530096967068
+        Motor vehicle and parts dealers,2011,100.185,148.9,148.62504366921195
+        Motor vehicle and parts dealers,2012,100.0,161.2,161.2
+        Motor vehicle and parts dealers,2013,97.719,172.4,176.4242368423746
+        Motor vehicle and parts dealers,2014,96.55,181.3,187.7783531848783
+        Motor vehicle and parts dealers,2015,94.864,192.5,202.9220779220779
+        Motor vehicle and parts dealers,2016,89.161,201.7,226.2199840737542
+        Motor vehicle and parts dealers,2017,86.354,207.6,240.4057715913565
+        Motor vehicle and parts dealers,2018,86.324,213.6,247.43987767017282
+        Motor vehicle and parts dealers,2019,86.274,225.8,261.72427382525444
+        Motor vehicle and parts dealers,2020,96.899,229.2,236.5349487610811
+        Food and beverage stores,2010,88.389,131.2,148.43475998144564
+        Food and beverage stores,2011,93.733,130.2,138.90518814078285
+        Food and beverage stores,2012,100.0,132.0,132.0
+        Food and beverage stores,2013,102.278,136.0,132.97092238800133
+        Food and beverage stores,2014,106.121,138.8,130.79409353473866
+        Food and beverage stores,2015,113.772,145.5,127.88735365467777
+        Food and beverage stores,2016,119.357,148.4,124.33288370183567
+        Food and beverage stores,2017,119.613,152.8,127.7453119644186
+        Food and beverage stores,2018,123.326,154.8,125.52097692295219
+        Food and beverage stores,2019,125.43,158.3,126.20585186956869
+        Food and beverage stores,2020,132.907,172.2,129.5642817910268
+        General merchandise stores,2010,90.576,132.2,145.9547783077195
+        General merchandise stores,2011,90.638,134.2,148.06151945100288
+        General merchandise stores,2012,100.0,133.4,133.4
+        General merchandise stores,2013,99.738,135.4,135.75567988128898
+        General merchandise stores,2014,99.04,138.7,140.0444264943457
+        General merchandise stores,2015,97.247,142.6,146.63691424928277
+        General merchandise stores,2016,97.731,143.9,147.2408959286204
+        General merchandise stores,2017,96.049,146.7,152.734541744318
+        General merchandise stores,2018,94.215,150.6,159.8471580958446
+        General merchandise stores,2019,97.797,153.6,157.06003251633484
+        General merchandise stores,2020,94.814,157.5,166.11470879827874
+        Other retail,2010,96.765,447.4,462.35725727277423
+        Other retail,2011,98.125,459.8,468.58598726114656
+        Other retail,2012,100.0,483.3,483.3
+        Other retail,2013,102.838,506.8,492.813940372236
+        Other retail,2014,103.827,516.3,497.26949637377555
+        Other retail,2015,104.739,539.7,515.2808409474981
+        Other retail,2016,104.614,559.0,534.3453075114229
+        Other retail,2017,105.06,574.6,546.9255663430421
+        Other retail,2018,105.392,600.7,569.9673599514196
+        Other retail,2019,107.223,628.9,586.5346054484579
+        Other retail,2020,114.005,643.4,564.3612122275339
+    Transportation and warehousing,2010,94.048,433.5,460.93484178291936
+    Transportation and warehousing,2011,96.283,452.5,469.96873799113035
+    Transportation and warehousing,2012,100.0,473.3,473.3
+    Transportation and warehousing,2013,102.546,492.1,479.8821992081603
+    Transportation and warehousing,2014,105.694,522.5,494.35161882415275
+    Transportation and warehousing,2015,111.63,566.1,507.1217414673476
+    Transportation and warehousing,2016,113.153,582.4,514.7013335925693
+    Transportation and warehousing,2017,113.451,609.4,537.1481961375396
+    Transportation and warehousing,2018,116.492,648.1,556.3472169762731
+    Transportation and warehousing,2019,121.119,685.7,566.1374350845037
+    Transportation and warehousing,2020,116.674,572.0,490.25489826353765
+        Air transportation,2010,91.303,84.3,92.32993439426963
+        Air transportation,2011,91.671,84.8,92.5047179587874
+        Air transportation,2012,100.0,88.1,88.1
+        Air transportation,2013,101.938,94.2,92.40911142066747
+        Air transportation,2014,107.17,103.0,96.10898572361667
+        Air transportation,2015,115.794,117.7,101.64602656441612
+        Air transportation,2016,116.949,129.2,110.47550641732721
+        Air transportation,2017,114.279,134.8,117.95692996963572
+        Air transportation,2018,112.874,136.1,120.57692648439854
+        Air transportation,2019,119.414,146.3,122.51494799604738
+        Air transportation,2020,97.236,57.9,59.545847217080095
+        Rail transportation,2010,88.078,33.8,38.37507663661754
+        Rail transportation,2011,94.696,36.6,38.64999577595675
+        Rail transportation,2012,100.0,39.7,39.7
+        Rail transportation,2013,104.873,41.0,39.0949052663698
+        Rail transportation,2014,108.091,43.9,40.613927153972114
+        Rail transportation,2015,108.092,44.3,40.98360655737705
+        Rail transportation,2016,106.368,40.1,37.69930806257521
+        Rail transportation,2017,108.285,41.3,38.14009327238306
+        Rail transportation,2018,111.139,43.7,39.320130647207556
+        Rail transportation,2019,118.643,42.4,35.737464494323305
+        Rail transportation,2020,124.047,37.6,30.31109176360573
+        Water transportation,2010,120.801,14.7,12.168773437305981
+        Water transportation,2011,109.493,14.1,12.877535550217821
+        Water transportation,2012,100.0,13.2,13.2
+        Water transportation,2013,99.154,16.5,16.640781007321944
+        Water transportation,2014,107.351,16.2,15.090683831543256
+        Water transportation,2015,126.395,15.8,12.500494481585507
+        Water transportation,2016,125.146,13.5,10.787400316430409
+        Water transportation,2017,139.659,13.0,9.308386856557759
+        Water transportation,2018,151.086,14.2,9.398620653137947
+        Water transportation,2019,156.959,14.4,9.174370376977427
+        Water transportation,2020,99.347,9.6,9.663100043282636
+        Truck transportation,2010,93.359,113.5,121.57371008686899
+        Truck transportation,2011,95.805,122.0,127.34199676426073
+        Truck transportation,2012,100.0,128.4,128.4
+        Truck transportation,2013,102.465,131.1,127.94612794612793
+        Truck transportation,2014,106.354,140.8,132.38806250822725
+        Truck transportation,2015,113.672,149.1,131.1668660708002
+        Truck transportation,2016,115.207,148.9,129.24561875580477
+        Truck transportation,2017,114.351,156.3,136.68441902563163
+        Truck transportation,2018,123.095,167.7,136.2362403022056
+        Truck transportation,2019,127.593,173.0,135.58737548298103
+        Truck transportation,2020,125.794,164.7,130.92834316422085
+        Transit and ground passenger transportation,2010,94.443,31.4,33.24756731573542
+        Transit and ground passenger transportation,2011,98.695,34.2,34.65221135822484
+        Transit and ground passenger transportation,2012,100.0,36.5,36.5
+        Transit and ground passenger transportation,2013,103.993,38.0,36.54092102353043
+        Transit and ground passenger transportation,2014,104.101,40.6,39.00058596939511
+        Transit and ground passenger transportation,2015,108.72,42.2,38.815305371596764
+        Transit and ground passenger transportation,2016,112.102,42.7,38.09031060998019
+        Transit and ground passenger transportation,2017,111.869,45.4,40.58318211479499
+        Transit and ground passenger transportation,2018,108.996,47.6,43.67132738816103
+        Transit and ground passenger transportation,2019,108.394,53.9,49.725999594073464
+        Transit and ground passenger transportation,2020,104.173,37.4,35.90181716951609
+        Pipeline transportation,2010,92.757,20.2,21.777332169000722
+        Pipeline transportation,2011,97.679,21.6,22.113248497629993
+        Pipeline transportation,2012,100.0,25.3,25.3
+        Pipeline transportation,2013,107.975,27.0,25.00578837693911
+        Pipeline transportation,2014,109.623,30.2,27.548963265008254
+        Pipeline transportation,2015,109.336,36.8,33.65771566547158
+        Pipeline transportation,2016,115.002,39.2,34.08636371541365
+        Pipeline transportation,2017,117.391,41.0,34.926016474857526
+        Pipeline transportation,2018,119.994,44.5,37.08518759271297
+        Pipeline transportation,2019,130.682,43.3,33.13386694418512
+        Pipeline transportation,2020,136.799,41.2,30.11717921914634
+        Other transportation and support activities,2010,89.313,90.5,101.32903384725628
+        Other transportation and support activities,2011,95.032,94.0,98.91405000420912
+        Other transportation and support activities,2012,100.0,94.9,94.9
+        Other transportation and support activities,2013,104.704,97.1,92.73762224938875
+        Other transportation and support activities,2014,108.988,100.0,91.75322053804089
+        Other transportation and support activities,2015,115.321,108.1,93.73834774238863
+        Other transportation and support activities,2016,116.918,110.9,94.85280281906977
+        Other transportation and support activities,2017,118.311,115.1,97.28596664722636
+        Other transportation and support activities,2018,120.22,124.5,103.56013974380303
+        Other transportation and support activities,2019,126.596,136.3,107.66532907832791
+        Other transportation and support activities,2020,128.91,143.8,111.550694282833
+        Warehousing and storage,2010,110.044,45.2,41.07447929918942
+        Warehousing and storage,2011,104.468,45.2,43.2668376919248
+        Warehousing and storage,2012,100.0,47.2,47.2
+        Warehousing and storage,2013,94.957,47.3,49.812020177554054
+        Warehousing and storage,2014,91.688,47.8,52.13332169967716
+        Warehousing and storage,2015,94.239,51.9,55.07274058510807
+        Warehousing and storage,2016,95.354,58.0,60.825974788682174
+        Warehousing and storage,2017,97.733,62.4,63.84742103486028
+        Warehousing and storage,2018,101.65,69.9,68.76537137235613
+        Warehousing and storage,2019,99.388,76.1,76.5685998309655
+        Warehousing and storage,2020,98.215,79.9,81.35213562083185
+    Information,2010,100.413,754.9,751.7950862936074
+    Information,2011,99.838,763.0,764.2380656663796
+    Information,2012,100.0,762.7,762.7
+    Information,2013,100.123,831.4,830.3786342798358
+    Information,2014,99.215,844.4,851.0809857380435
+    Information,2015,96.653,907.8,939.2362368472783
+    Information,2016,94.935,970.3,1022.0677305524832
+    Information,2017,92.411,1004.7,1087.2082327861403
+    Information,2018,90.882,1064.6,1171.4090799058117
+    Information,2019,90.553,1134.5,1252.8574426026748
+    Information,2020,90.081,1167.9,1296.4998168315185
+"        Publishing industries, except internet (includes software)",2010,98.809,187.1,189.35522067827827
+"        Publishing industries, except internet (includes software)",2011,99.436,195.3,196.40773965163524
+"        Publishing industries, except internet (includes software)",2012,100.0,202.2,202.2
+"        Publishing industries, except internet (includes software)",2013,101.218,210.8,208.26335236815586
+"        Publishing industries, except internet (includes software)",2014,101.677,217.8,214.2077362628716
+"        Publishing industries, except internet (includes software)",2015,100.117,223.7,223.43857686506783
+"        Publishing industries, except internet (includes software)",2016,98.417,234.5,238.27184327910828
+"        Publishing industries, except internet (includes software)",2017,96.545,252.4,261.4324926200218
+"        Publishing industries, except internet (includes software)",2018,94.427,274.2,290.3830472216633
+"        Publishing industries, except internet (includes software)",2019,94.004,293.1,311.7952427556274
+"        Publishing industries, except internet (includes software)",2020,93.686,320.0,341.56650940375295
+        Motion picture and sound recording industries,2010,98.694,91.3,92.50815652420613
+        Motion picture and sound recording industries,2011,97.864,85.1,86.95741028365894
+        Motion picture and sound recording industries,2012,100.0,82.8,82.8
+        Motion picture and sound recording industries,2013,98.189,83.0,84.53085376162299
+        Motion picture and sound recording industries,2014,97.167,82.3,84.69953790896085
+        Motion picture and sound recording industries,2015,95.845,87.6,91.39756899160102
+        Motion picture and sound recording industries,2016,99.034,93.8,94.7149463820506
+        Motion picture and sound recording industries,2017,98.737,94.3,95.50624385995118
+        Motion picture and sound recording industries,2018,99.331,87.2,87.78729701704403
+        Motion picture and sound recording industries,2019,97.199,86.9,89.40421197748948
+        Motion picture and sound recording industries,2020,94.597,70.1,74.10382993118175
+        Broadcasting and telecommunications,2010,101.555,375.5,369.7503815666387
+        Broadcasting and telecommunications,2011,100.388,367.8,366.37845160776186
+        Broadcasting and telecommunications,2012,100.0,372.3,372.3
+        Broadcasting and telecommunications,2013,100.311,405.8,404.5418747694669
+        Broadcasting and telecommunications,2014,98.813,394.8,399.5425703095746
+        Broadcasting and telecommunications,2015,94.706,426.6,450.4466454078939
+        Broadcasting and telecommunications,2016,92.093,446.7,485.05315279120015
+        Broadcasting and telecommunications,2017,88.348,445.4,504.14270838049526
+        Broadcasting and telecommunications,2018,87.098,460.2,528.3703414544536
+        Broadcasting and telecommunications,2019,86.828,469.2,540.3786796885797
+        Broadcasting and telecommunications,2020,85.578,459.5,536.9370632639229
+"        Data processing, internet publishing, and other information services",2010,100.748,101.0,100.25012903481954
+"        Data processing, internet publishing, and other information services",2011,100.248,114.8,114.51600031920836
+"        Data processing, internet publishing, and other information services",2012,100.0,105.3,105.3
+"        Data processing, internet publishing, and other information services",2013,98.963,131.7,133.08004001495507
+"        Data processing, internet publishing, and other information services",2014,97.748,149.4,152.84200188239146
+"        Data processing, internet publishing, and other information services",2015,97.195,169.8,174.7003446679356
+"        Data processing, internet publishing, and other information services",2016,95.255,195.2,204.92362605637499
+"        Data processing, internet publishing, and other information services",2017,93.802,212.6,226.64761945374298
+"        Data processing, internet publishing, and other information services",2018,91.544,243.0,265.44612426811153
+"        Data processing, internet publishing, and other information services",2019,91.756,285.3,310.93334495836785
+"        Data processing, internet publishing, and other information services",2020,92.95,318.3,342.442173211404
+"    Finance, insurance, real estate, rental, and leasing",2010,96.326,2990.4,3104.4577787928497
+"    Finance, insurance, real estate, rental, and leasing",2011,97.615,3080.8,3156.0723249500593
+"    Finance, insurance, real estate, rental, and leasing",2012,100.0,3289.2,3289.2
+"    Finance, insurance, real estate, rental, and leasing",2013,102.739,3362.0,3272.3697914131926
+"    Finance, insurance, real estate, rental, and leasing",2014,106.493,3560.7,3343.600048829501
+"    Finance, insurance, real estate, rental, and leasing",2015,109.863,3713.8,3380.3919426922625
+"    Finance, insurance, real estate, rental, and leasing",2016,113.7,3883.2,3415.3034300791555
+"    Finance, insurance, real estate, rental, and leasing",2017,117.198,4020.2,3430.263315073636
+"    Finance, insurance, real estate, rental, and leasing",2018,122.003,4257.8,3489.9141824381372
+"    Finance, insurance, real estate, rental, and leasing",2019,125.106,4451.5,3558.182661103385
+"    Finance, insurance, real estate, rental, and leasing",2020,128.68,4592.1,3568.619832141747
+        Finance and insurance,2010,93.953,1006.2,1070.9610124211042
+        Finance and insurance,2011,96.106,1033.5,1075.3751066530706
+        Finance and insurance,2012,100.0,1172.4,1172.4
+        Finance and insurance,2013,104.419,1156.5,1107.5570537928922
+        Finance and insurance,2014,111.228,1296.0,1165.1742367029885
+        Finance and insurance,2015,114.822,1384.5,1205.7793802581386
+        Finance and insurance,2016,120.474,1475.0,1224.3305609509105
+        Finance and insurance,2017,125.609,1512.1,1203.8150132554197
+        Finance and insurance,2018,135.209,1626.7,1203.100385329379
+        Finance and insurance,2019,137.592,1682.9,1223.1089016803303
+        Finance and insurance,2020,141.936,1787.7,1259.5113290497125
+"            Federal Reserve banks, credit intermediation, and related activities",2010,96.141,419.5,436.3382947961847
+"            Federal Reserve banks, credit intermediation, and related activities",2011,95.703,461.5,482.2210380029884
+"            Federal Reserve banks, credit intermediation, and related activities",2012,100.0,519.7,519.7
+"            Federal Reserve banks, credit intermediation, and related activities",2013,105.509,508.3,481.75984987062714
+"            Federal Reserve banks, credit intermediation, and related activities",2014,114.021,559.9,491.0498943177134
+"            Federal Reserve banks, credit intermediation, and related activities",2015,119.419,581.6,487.0246778150881
+"            Federal Reserve banks, credit intermediation, and related activities",2016,131.264,617.2,470.19746465138957
+"            Federal Reserve banks, credit intermediation, and related activities",2017,143.956,641.6,445.6917391425158
+"            Federal Reserve banks, credit intermediation, and related activities",2018,160.772,693.6,431.41840619013266
+"            Federal Reserve banks, credit intermediation, and related activities",2019,166.947,723.3,433.2512713615698
+"            Federal Reserve banks, credit intermediation, and related activities",2020,167.958,781.0,464.9972016813727
+"            Securities, commodity contracts, and investments",2010,84.037,196.7,234.06356723824027
+"            Securities, commodity contracts, and investments",2011,94.041,173.4,184.38766070118353
+"            Securities, commodity contracts, and investments",2012,100.0,232.8,232.8
+"            Securities, commodity contracts, and investments",2013,109.154,249.5,228.57614013229016
+"            Securities, commodity contracts, and investments",2014,123.692,228.1,184.40966271060375
+"            Securities, commodity contracts, and investments",2015,127.234,231.0,181.5552446673059
+"            Securities, commodity contracts, and investments",2016,126.939,267.4,210.65236058264205
+"            Securities, commodity contracts, and investments",2017,135.287,297.1,219.60720542254614
+"            Securities, commodity contracts, and investments",2018,144.216,314.1,217.79830254618074
+"            Securities, commodity contracts, and investments",2019,147.049,329.8,224.27898183598663
+"            Securities, commodity contracts, and investments",2020,154.82,341.4,220.51414545924297
+            Insurance carriers and related activities,2010,96.779,373.4,385.8275039006396
+            Insurance carriers and related activities,2011,98.521,385.4,391.18563554978124
+            Insurance carriers and related activities,2012,100.0,406.9,406.9
+            Insurance carriers and related activities,2013,101.211,386.1,381.4802738832736
+            Insurance carriers and related activities,2014,103.14,487.4,472.56156680240446
+            Insurance carriers and related activities,2015,104.368,554.6,531.3889314732486
+            Insurance carriers and related activities,2016,105.236,571.6,543.1601353149113
+            Insurance carriers and related activities,2017,103.619,550.7,531.4662368870574
+            Insurance carriers and related activities,2018,107.329,590.7,550.3638345647496
+            Insurance carriers and related activities,2019,106.069,604.5,569.9120383901045
+            Insurance carriers and related activities,2020,111.576,640.3,573.8689323868932
+"            Funds, trusts, and other financial vehicles",2010,86.225,16.6,19.25195708901131
+"            Funds, trusts, and other financial vehicles",2011,73.045,13.1,17.93415018139503
+"            Funds, trusts, and other financial vehicles",2012,100.0,13.0,13.0
+"            Funds, trusts, and other financial vehicles",2013,78.43,12.6,16.06528114241999
+"            Funds, trusts, and other financial vehicles",2014,68.455,20.6,30.092761668249217
+"            Funds, trusts, and other financial vehicles",2015,83.359,17.4,20.873570940150433
+"            Funds, trusts, and other financial vehicles",2016,130.334,18.7,14.347752696917151
+"            Funds, trusts, and other financial vehicles",2017,100.431,22.7,22.602582867839608
+"            Funds, trusts, and other financial vehicles",2018,109.679,28.3,25.802569315912802
+"            Funds, trusts, and other financial vehicles",2019,122.706,25.3,20.61838866885075
+"            Funds, trusts, and other financial vehicles",2020,124.898,25.1,20.096398661307628
+        Real estate and rental and leasing,2010,97.584,1984.2,2033.3251352680768
+        Real estate and rental and leasing,2011,98.422,2047.3,2080.124362439292
+        Real estate and rental and leasing,2012,100.0,2116.8,2116.8
+        Real estate and rental and leasing,2013,101.845,2205.5,2165.545682164073
+        Real estate and rental and leasing,2014,104.0,2264.7,2177.596153846154
+        Real estate and rental and leasing,2015,107.251,2329.3,2171.8212417599834
+        Real estate and rental and leasing,2016,110.081,2408.3,2187.7526548632372
+        Real estate and rental and leasing,2017,112.68,2508.2,2225.949591764288
+        Real estate and rental and leasing,2018,114.927,2631.0,2289.2792816309484
+        Real estate and rental and leasing,2019,118.404,2768.7,2338.35005574136
+        Real estate and rental and leasing,2020,121.568,2804.4,2306.857067649382
+            Real estate,2010,97.624,1823.9,1868.2905842825535
+            Real estate,2011,98.404,1883.9,1914.4546969635383
+            Real estate,2012,100.0,1943.0,1943.0
+            Real estate,2013,101.942,2022.4,1983.873182790214
+            Real estate,2014,104.341,2073.9,1987.6175233129836
+            Real estate,2015,108.109,2123.1,1963.8512982267898
+            Real estate,2016,111.464,2187.6,1962.6067609272948
+            Real estate,2017,114.352,2279.5,1993.4063243318874
+            Real estate,2018,116.665,2386.7,2045.7720824583207
+            Real estate,2019,120.541,2500.4,2074.3149633734583
+            Real estate,2020,124.102,2563.1,2065.3172390453014
+                Housing,2010,96.898,1495.9,1543.7883134842825
+                Housing,2011,98.064,1523.9,1553.9851525534345
+                Housing,2012,100.0,1546.2,1546.2
+                Housing,2013,102.234,1590.1,1555.3534049337793
+                Housing,2014,105.111,1636.6,1557.0206733833757
+                Housing,2015,108.595,1686.7,1553.2022652976657
+                Housing,2016,112.315,1745.9,1554.4673463028093
+                Housing,2017,116.133,1815.1,1562.9493770073966
+                Housing,2018,119.598,1896.1,1585.3944045887054
+                Housing,2019,123.836,1980.1,1598.9696049614006
+                Housing,2020,127.56,2050.7,1607.6356224521792
+                Other real estate,2010,100.764,328.0,325.5130800682784
+                Other real estate,2011,99.797,360.0,360.7322865416796
+                Other real estate,2012,100.0,396.9,396.9
+                Other real estate,2013,100.842,432.3,428.69042660796094
+                Other real estate,2014,101.51,437.3,430.7949955669392
+                Other real estate,2015,106.339,436.4,410.38565342912756
+                Other real estate,2016,108.307,441.7,407.82220909082514
+                Other real estate,2017,107.732,464.5,431.16251438755427
+                Other real estate,2018,105.977,490.6,462.93063589269366
+                Other real estate,2019,108.606,520.3,479.07113787451885
+                Other real estate,2020,111.584,512.4,459.2056208775452
+            Rental and leasing services and lessors of intangible assets,2010,97.128,160.3,165.0399472860555
+            Rental and leasing services and lessors of intangible assets,2011,98.633,163.3,165.56324962233737
+            Rental and leasing services and lessors of intangible assets,2012,100.0,173.8,173.8
+            Rental and leasing services and lessors of intangible assets,2013,100.778,183.1,181.6864791918871
+            Rental and leasing services and lessors of intangible assets,2014,100.323,190.9,190.28537822832254
+            Rental and leasing services and lessors of intangible assets,2015,98.453,206.2,209.44003737824139
+            Rental and leasing services and lessors of intangible assets,2016,96.546,220.6,228.49211774698068
+            Rental and leasing services and lessors of intangible assets,2017,96.644,228.6,236.5382227556806
+            Rental and leasing services and lessors of intangible assets,2018,98.293,244.4,248.64435921174447
+            Rental and leasing services and lessors of intangible assets,2019,98.527,268.2,272.20964811675987
+            Rental and leasing services and lessors of intangible assets,2020,98.442,241.3,245.11895329229395
+    Professional and business services,2010,97.735,1768.5,1809.4848314319333
+    Professional and business services,2011,98.768,1860.0,1883.2010367730438
+    Professional and business services,2012,100.0,1968.9,1968.9
+    Professional and business services,2013,101.379,2020.1,1992.6217461209915
+    Professional and business services,2014,101.757,2120.2,2083.5913008441676
+    Professional and business services,2015,103.882,2237.7,2154.0786661789334
+    Professional and business services,2016,104.927,2306.2,2197.909022463236
+    Professional and business services,2017,105.788,2434.3,2301.1116572768183
+    Professional and business services,2018,106.331,2586.9,2432.8747025796806
+    Professional and business services,2019,107.372,2731.3,2543.7730507022316
+    Professional and business services,2020,108.288,2689.8,2483.9317375886526
+"        Professional, scientific, and technical services",2010,97.307,1065.1,1094.5769574645194
+"        Professional, scientific, and technical services",2011,98.672,1127.2,1142.370682665802
+"        Professional, scientific, and technical services",2012,100.0,1191.8,1191.8
+"        Professional, scientific, and technical services",2013,101.415,1210.7,1193.8076221466251
+"        Professional, scientific, and technical services",2014,101.907,1269.0,1245.2530248167448
+"        Professional, scientific, and technical services",2015,103.812,1349.2,1299.657072400108
+"        Professional, scientific, and technical services",2016,104.285,1395.5,1338.1598504099343
+"        Professional, scientific, and technical services",2017,105.421,1458.5,1383.5004410885876
+"        Professional, scientific, and technical services",2018,106.318,1559.4,1466.7318798322017
+"        Professional, scientific, and technical services",2019,107.491,1645.0,1530.3606813593697
+"        Professional, scientific, and technical services",2020,108.433,1627.8,1501.2035081571107
+            Legal services,2010,91.891,204.7,222.7639268263486
+            Legal services,2011,96.218,216.1,224.59415078259784
+            Legal services,2012,100.0,217.5,217.5
+            Legal services,2013,104.48,219.4,209.99234303215928
+            Legal services,2014,108.863,225.8,207.41666130824984
+            Legal services,2015,113.075,238.8,211.18726508954236
+            Legal services,2016,115.907,252.1,217.50196278050504
+            Legal services,2017,120.471,258.8,214.82348449004326
+            Legal services,2018,123.772,268.6,217.01192515270012
+            Legal services,2019,129.201,282.8,218.88375476969995
+            Legal services,2020,137.024,281.7,205.58442316674453
+            Computer systems design and related services,2010,101.954,202.9,199.01131883006065
+            Computer systems design and related services,2011,101.525,224.8,221.42329475498647
+            Computer systems design and related services,2012,100.0,252.7,252.7
+            Computer systems design and related services,2013,99.064,255.2,257.6112412177986
+            Computer systems design and related services,2014,97.73,266.1,272.28077355980764
+            Computer systems design and related services,2015,96.352,284.9,295.6866489538359
+            Computer systems design and related services,2016,94.755,304.9,321.77721492269535
+            Computer systems design and related services,2017,93.059,322.8,346.87671262317457
+            Computer systems design and related services,2018,91.604,353.4,385.79101349286054
+            Computer systems design and related services,2019,91.17,370.5,406.38367884172425
+            Computer systems design and related services,2020,90.071,366.6,407.01224589490516
+"            Miscellaneous professional, scientific, and technical services",2010,97.538,657.5,674.0962496667966
+"            Miscellaneous professional, scientific, and technical services",2011,98.485,686.2,696.7558511448444
+"            Miscellaneous professional, scientific, and technical services",2012,100.0,721.6,721.6
+"            Miscellaneous professional, scientific, and technical services",2013,101.339,736.1,726.3738540936855
+"            Miscellaneous professional, scientific, and technical services",2014,101.39,777.1,766.4463951079988
+"            Miscellaneous professional, scientific, and technical services",2015,103.867,825.6,794.8626609028854
+"            Miscellaneous professional, scientific, and technical services",2016,104.504,838.5,802.3616320906377
+"            Miscellaneous professional, scientific, and technical services",2017,105.885,877.0,828.2570713509939
+"            Miscellaneous professional, scientific, and technical services",2018,107.174,937.3,874.5591281467518
+"            Miscellaneous professional, scientific, and technical services",2019,108.006,991.7,918.189730200174
+"            Miscellaneous professional, scientific, and technical services",2020,108.242,979.4,904.8243750115482
+        Management of companies and enterprises,2010,98.385,265.3,269.6549270722163
+        Management of companies and enterprises,2011,98.995,277.9,280.72124854790644
+        Management of companies and enterprises,2012,100.0,302.1,302.1
+        Management of companies and enterprises,2013,100.822,319.6,316.99430679811945
+        Management of companies and enterprises,2014,98.362,332.8,338.34204265875036
+        Management of companies and enterprises,2015,100.179,347.9,347.2783717146308
+        Management of companies and enterprises,2016,99.774,350.9,351.6948303165153
+        Management of companies and enterprises,2017,98.736,372.7,377.47123642845565
+        Management of companies and enterprises,2018,96.987,392.4,404.5903059172879
+        Management of companies and enterprises,2019,95.008,411.8,433.4371842371169
+        Management of companies and enterprises,2020,93.329,410.5,439.8418498001693
+        Administrative and waste management services,2010,98.396,438.0,445.14004634334725
+        Administrative and waste management services,2011,98.867,455.0,460.21422719410924
+        Administrative and waste management services,2012,100.0,474.9,474.9
+        Administrative and waste management services,2013,101.65,489.8,481.8494835218889
+        Administrative and waste management services,2014,103.636,518.4,500.2122814466016
+        Administrative and waste management services,2015,106.525,540.6,507.4865055151373
+        Administrative and waste management services,2016,110.056,559.7,508.5592789125537
+        Administrative and waste management services,2017,111.521,603.0,540.7053380080881
+        Administrative and waste management services,2018,112.773,635.1,563.1667154372058
+        Administrative and waste management services,2019,115.672,674.5,583.11432325887
+        Administrative and waste management services,2020,118.513,651.6,549.8131006725001
+            Administrative and support services,2010,98.625,390.2,395.6400506970849
+            Administrative and support services,2011,98.938,412.4,416.8266995492126
+            Administrative and support services,2012,100.0,432.1,432.1
+            Administrative and support services,2013,101.555,446.5,439.6632366697848
+            Administrative and support services,2014,103.378,472.2,456.77029928998434
+            Administrative and support services,2015,106.272,492.6,463.52755194218605
+            Administrative and support services,2016,109.666,511.7,466.59858114638996
+            Administrative and support services,2017,111.003,549.3,494.85149050025666
+            Administrative and support services,2018,111.842,577.7,516.5322508538832
+            Administrative and support services,2019,114.577,615.0,536.7569407472704
+            Administrative and support services,2020,116.987,591.7,505.78269380358506
+            Waste management and remediation services,2010,96.321,47.8,49.625730629873026
+            Waste management and remediation services,2011,98.161,42.5,43.29621743869765
+            Waste management and remediation services,2012,100.0,42.8,42.8
+            Waste management and remediation services,2013,102.622,43.3,42.19368166669915
+            Waste management and remediation services,2014,106.316,46.2,43.455359494337635
+            Waste management and remediation services,2015,109.15,47.9,43.88456252863032
+            Waste management and remediation services,2016,114.167,48.1,42.13126385032453
+            Waste management and remediation services,2017,117.02,53.8,45.97504700051273
+            Waste management and remediation services,2018,122.783,57.5,46.83058729628694
+            Waste management and remediation services,2019,127.52,59.5,46.65934755332497
+            Waste management and remediation services,2020,135.282,59.8,44.20395913720967
+"    Educational services, health care, and social assistance",2010,96.273,1311.3,1362.064130129943
+"    Educational services, health care, and social assistance",2011,97.838,1356.2,1386.168973200597
+"    Educational services, health care, and social assistance",2012,100.0,1409.3,1409.3
+"    Educational services, health care, and social assistance",2013,101.539,1448.4,1426.4469809629798
+"    Educational services, health care, and social assistance",2014,102.783,1492.6,1452.18567272798
+"    Educational services, health care, and social assistance",2015,104.279,1571.2,1506.727145446351
+"    Educational services, health care, and social assistance",2016,106.667,1652.6,1549.3076584135674
+"    Educational services, health care, and social assistance",2017,108.496,1710.7,1576.7401563191272
+"    Educational services, health care, and social assistance",2018,110.092,1784.2,1620.6445518293792
+"    Educational services, health care, and social assistance",2019,112.302,1871.4,1666.3995298391835
+"    Educational services, health care, and social assistance",2020,115.262,1798.6,1560.4448994464783
+        Educational services,2010,93.789,199.0,212.1784004520786
+        Educational services,2011,96.543,206.3,213.6871653045793
+        Educational services,2012,100.0,214.2,214.2
+        Educational services,2013,103.314,217.6,210.62005149350523
+        Educational services,2014,106.214,226.2,212.96627563221418
+        Educational services,2015,108.747,233.4,214.62661038925214
+        Educational services,2016,111.635,246.2,220.54015317776683
+        Educational services,2017,114.65,249.2,217.35717400784995
+        Educational services,2018,117.263,261.1,222.66187970630122
+        Educational services,2019,120.18,275.0,228.82343151938758
+        Educational services,2020,123.787,251.3,203.0100091285838
+        Health care and social assistance,2010,96.725,1112.3,1149.9612302920652
+        Health care and social assistance,2011,98.073,1149.9,1172.493958581873
+        Health care and social assistance,2012,100.0,1195.1,1195.1
+        Health care and social assistance,2013,101.226,1230.8,1215.8931499812302
+        Health care and social assistance,2014,102.185,1266.4,1239.3208396535697
+        Health care and social assistance,2015,103.505,1337.8,1292.497946959084
+        Health care and social assistance,2016,105.809,1406.4,1329.1874982279392
+        Health care and social assistance,2017,107.445,1461.5,1360.230815766206
+        Health care and social assistance,2018,108.876,1523.0,1398.8390462544546
+        Health care and social assistance,2019,110.973,1596.4,1438.5481153073272
+        Health care and social assistance,2020,113.83,1547.3,1359.3077396117014
+            Ambulatory health care services,2010,97.44,532.0,545.9770114942529
+            Ambulatory health care services,2011,98.563,555.8,563.9032902813428
+            Ambulatory health care services,2012,100.0,574.6,574.6
+            Ambulatory health care services,2013,100.39,594.3,591.9912341866719
+            Ambulatory health care services,2014,100.881,611.8,606.4571128359155
+            Ambulatory health care services,2015,100.449,644.4,641.5195770988263
+            Ambulatory health care services,2016,101.363,682.9,673.7172340992275
+            Ambulatory health care services,2017,101.912,712.4,699.0344611036973
+            Ambulatory health care services,2018,102.232,741.6,725.4088739337977
+            Ambulatory health care services,2019,103.038,780.8,757.7786835924609
+            Ambulatory health care services,2020,104.666,738.5,705.577742533392
+            Hospitals,2010,95.975,369.9,385.4128679343579
+            Hospitals,2011,97.371,382.3,392.62203325425435
+            Hospitals,2012,100.0,398.5,398.5
+            Hospitals,2013,101.998,405.9,397.9489793917527
+            Hospitals,2014,103.427,416.3,402.5061154244056
+            Hospitals,2015,106.312,443.7,417.3564602302656
+            Hospitals,2016,109.719,461.0,420.16423773457655
+            Hospitals,2017,112.164,477.1,425.35929531757074
+            Hospitals,2018,114.288,495.2,433.29133417331656
+            Hospitals,2019,117.373,513.6,437.57934107503434
+            Hospitals,2020,120.203,513.0,426.77803382611086
+            Nursing and residential care facilities,2010,96.712,120.7,124.80354040863595
+            Nursing and residential care facilities,2011,98.359,123.2,125.25544179993697
+            Nursing and residential care facilities,2012,100.0,126.0,126.0
+            Nursing and residential care facilities,2013,100.923,129.1,127.91930481654329
+            Nursing and residential care facilities,2014,101.526,132.5,130.50844118747906
+            Nursing and residential care facilities,2015,104.44,137.6,131.7502872462658
+            Nursing and residential care facilities,2016,108.621,143.0,131.65041750674365
+            Nursing and residential care facilities,2017,111.75,146.1,130.73825503355704
+            Nursing and residential care facilities,2018,115.55,152.4,131.89095629597577
+            Nursing and residential care facilities,2019,119.964,157.2,131.03931179353805
+            Nursing and residential care facilities,2020,126.295,155.0,122.72853240429154
+            Social assistance,2010,95.59,89.7,93.83826760121352
+            Social assistance,2011,97.67,88.7,90.81601310535477
+            Social assistance,2012,100.0,96.0,96.0
+            Social assistance,2013,103.482,101.5,98.08469105738196
+            Social assistance,2014,105.831,106.0,100.15968856006273
+            Social assistance,2015,109.551,112.1,102.32677018009876
+            Social assistance,2016,113.828,119.5,104.98295674175071
+            Social assistance,2017,117.388,125.9,107.2511670698879
+            Social assistance,2018,120.475,133.7,110.97738119941896
+            Social assistance,2019,124.455,144.8,116.34727411514203
+            Social assistance,2020,131.44,140.8,107.12111990261717
+"    Arts, entertainment, recreation, accommodation, and food services",2010,94.857,556.2,586.356304753471
+"    Arts, entertainment, recreation, accommodation, and food services",2011,95.798,581.9,607.4239545710766
+"    Arts, entertainment, recreation, accommodation, and food services",2012,100.0,622.7,622.7
+"    Arts, entertainment, recreation, accommodation, and food services",2013,102.64,652.3,635.5222135619641
+"    Arts, entertainment, recreation, accommodation, and food services",2014,105.075,691.9,658.4820366404948
+"    Arts, entertainment, recreation, accommodation, and food services",2015,110.036,747.0,678.8687338689156
+"    Arts, entertainment, recreation, accommodation, and food services",2016,114.442,790.5,690.7429090718442
+"    Arts, entertainment, recreation, accommodation, and food services",2017,117.025,828.2,707.7120273445845
+"    Arts, entertainment, recreation, accommodation, and food services",2018,120.703,869.6,720.4460535363661
+"    Arts, entertainment, recreation, accommodation, and food services",2019,124.39,914.2,734.9465391108611
+"    Arts, entertainment, recreation, accommodation, and food services",2020,130.193,672.1,516.2335916677548
+"        Arts, entertainment, and recreation",2010,95.759,152.4,159.149531636713
+"        Arts, entertainment, and recreation",2011,96.898,158.7,163.78047018514314
+"        Arts, entertainment, and recreation",2012,100.0,171.8,171.8
+"        Arts, entertainment, and recreation",2013,101.633,177.8,174.9431779048144
+"        Arts, entertainment, and recreation",2014,103.639,189.3,182.65324829456094
+"        Arts, entertainment, and recreation",2015,107.879,193.6,179.46032128588507
+"        Arts, entertainment, and recreation",2016,111.589,207.2,185.6813843658425
+"        Arts, entertainment, and recreation",2017,113.022,216.8,191.82106138627879
+"        Arts, entertainment, and recreation",2018,115.327,230.0,199.43291683647368
+"        Arts, entertainment, and recreation",2019,117.975,241.0,204.28056791693157
+"        Arts, entertainment, and recreation",2020,123.706,163.4,132.0873684380709
+"            Performing arts, spectator sports, museums, and related activities",2010,97.136,87.9,90.4916817657717
+"            Performing arts, spectator sports, museums, and related activities",2011,97.697,93.0,95.19227816616682
+"            Performing arts, spectator sports, museums, and related activities",2012,100.0,101.8,101.8
+"            Performing arts, spectator sports, museums, and related activities",2013,101.624,104.5,102.83004014799653
+"            Performing arts, spectator sports, museums, and related activities",2014,103.759,112.5,108.42432945575806
+"            Performing arts, spectator sports, museums, and related activities",2015,108.062,112.9,104.4770594658622
+"            Performing arts, spectator sports, museums, and related activities",2016,112.122,122.2,108.98842332459284
+"            Performing arts, spectator sports, museums, and related activities",2017,114.466,129.9,113.48347981059878
+"            Performing arts, spectator sports, museums, and related activities",2018,116.232,139.0,119.58840938812031
+"            Performing arts, spectator sports, museums, and related activities",2019,118.18,145.4,123.03266204095449
+"            Performing arts, spectator sports, museums, and related activities",2020,122.9,91.3,74.28803905614319
+"            Amusements, gambling, and recreation industries",2010,93.848,64.6,68.83471144829937
+"            Amusements, gambling, and recreation industries",2011,95.766,65.7,68.60472401478604
+"            Amusements, gambling, and recreation industries",2012,100.0,70.0,70.0
+"            Amusements, gambling, and recreation industries",2013,101.645,73.2,72.01534753308083
+"            Amusements, gambling, and recreation industries",2014,103.466,76.8,74.22728239228346
+"            Amusements, gambling, and recreation industries",2015,107.617,80.6,74.8952303074793
+"            Amusements, gambling, and recreation industries",2016,110.836,85.0,76.68988415316323
+"            Amusements, gambling, and recreation industries",2017,110.961,86.9,78.31580465208498
+"            Amusements, gambling, and recreation industries",2018,114.062,91.0,79.78117164349214
+"            Amusements, gambling, and recreation industries",2019,117.766,95.6,81.17792911366607
+"            Amusements, gambling, and recreation industries",2020,124.916,72.1,57.71878702488071
+        Accommodation and food services,2010,94.518,403.8,427.22021202310674
+        Accommodation and food services,2011,95.384,423.2,443.6802818082697
+        Accommodation and food services,2012,100.0,451.0,451.0
+        Accommodation and food services,2013,103.024,474.5,460.5722938344463
+        Accommodation and food services,2014,105.621,502.6,475.85233997027115
+        Accommodation and food services,2015,110.851,553.5,499.31890555791114
+        Accommodation and food services,2016,115.511,583.2,504.88698046073546
+        Accommodation and food services,2017,118.521,611.3,515.7735759907526
+        Accommodation and food services,2018,122.716,639.6,521.2034290557059
+        Accommodation and food services,2019,126.802,673.2,530.9064525796123
+        Accommodation and food services,2020,132.623,508.7,383.5684609758489
+            Accommodation,2010,94.357,112.1,118.80411628178089
+            Accommodation,2011,95.908,122.0,127.20523835342202
+            Accommodation,2012,100.0,128.9,128.9
+            Accommodation,2013,102.729,136.9,133.26324601621744
+            Accommodation,2014,106.219,143.1,134.72165996667263
+            Accommodation,2015,109.761,157.6,143.58469766128223
+            Accommodation,2016,113.5,160.2,141.1453744493392
+            Accommodation,2017,116.349,168.0,144.3931619524018
+            Accommodation,2018,121.789,176.2,144.6764486119436
+            Accommodation,2019,125.202,185.0,147.761217871919
+            Accommodation,2020,116.573,115.8,99.33689619380131
+            Food services and drinking places,2010,94.577,291.7,308.4259386531609
+            Food services and drinking places,2011,95.174,301.2,316.4729863197932
+            Food services and drinking places,2012,100.0,322.1,322.1
+            Food services and drinking places,2013,103.143,337.6,327.3125660490775
+            Food services and drinking places,2014,105.383,359.5,341.1366159627264
+            Food services and drinking places,2015,111.287,395.9,355.74685273212503
+            Food services and drinking places,2016,116.312,423.0,363.6770066717106
+            Food services and drinking places,2017,119.384,443.4,371.40655364202905
+            Food services and drinking places,2018,123.099,463.3,376.3637397541816
+            Food services and drinking places,2019,127.444,488.2,383.07021123003045
+            Food services and drinking places,2020,138.588,393.0,283.5743354402979
+"    Other services, except government",2010,94.807,328.2,346.17697005495376
+"    Other services, except government",2011,97.153,333.5,343.27298179160704
+"    Other services, except government",2012,100.0,348.6,348.6
+"    Other services, except government",2013,103.169,356.7,345.7433919103607
+"    Other services, except government",2014,105.933,376.8,355.69652516213074
+"    Other services, except government",2015,109.483,391.6,357.681101175525
+"    Other services, except government",2016,112.865,400.5,354.84871306428033
+"    Other services, except government",2017,115.814,413.5,357.03800922168307
+"    Other services, except government",2018,118.359,436.5,368.7932476617748
+"    Other services, except government",2019,123.195,454.4,368.8461382361297
+"    Other services, except government",2020,129.729,419.0,322.9809834346985
+Government,2010,96.575,2108.0,2182.7595133316076
+Government,2011,98.22,2137.1,2175.8297699042964
+Government,2012,100.0,2159.5,2159.5
+Government,2013,103.181,2212.5,2144.290130934959
+Government,2014,106.157,2271.4,2139.6610680407325
+Government,2015,109.208,2339.4,2142.150758186214
+Government,2016,110.208,2384.2,2163.3638211382113
+Government,2017,112.013,2447.1,2184.657138010766
+Government,2018,115.582,2546.3,2203.024692426157
+Government,2019,118.298,2621.8,2216.2673925172026
+Government,2020,121.641,2670.6,2195.4768540212594
+    Federal,2010,97.353,697.4,716.3621049171572
+    Federal,2011,99.27,712.3,717.5380276014909
+    Federal,2012,100.0,713.9,713.9
+    Federal,2013,100.938,703.8,697.2597039766986
+    Federal,2014,103.289,715.8,693.0069997773237
+    Federal,2015,105.368,731.3,694.0437324424872
+    Federal,2016,106.146,743.0,699.9792738303845
+    Federal,2017,108.081,761.7,704.7492158658783
+    Federal,2018,111.31,789.4,709.1905489174378
+    Federal,2019,113.641,811.5,714.0908650927041
+    Federal,2020,115.532,848.4,734.3420004847143
+        General government,2010,97.257,640.0,658.0503202854293
+        General government,2010,97.257,1306.1,1342.9367551949986
+        General government,2010,96.146,640.0,665.6543173922993
+        General government,2010,96.146,1306.1,1358.4548499157531
+        General government,2011,99.32,659.8,664.3173580346355
+        General government,2011,99.32,1313.1,1322.09021345147
+        General government,2011,97.775,659.8,674.8146254154947
+        General government,2011,97.775,1313.1,1342.9813346970084
+        General government,2012,100.0,663.7,663.7
+        General government,2012,100.0,1325.5,1325.5
+        General government,2012,100.0,663.7,663.7
+        General government,2012,100.0,1325.5,1325.5
+        General government,2013,100.987,658.4,651.9651044193806
+        General government,2013,100.987,1380.9,1367.4037252319606
+        General government,2013,104.327,658.4,631.0926222358546
+        General government,2013,104.327,1380.9,1323.626673823651
+        General government,2014,103.08,666.8,646.8762126503686
+        General government,2014,103.08,1421.1,1378.6379511059372
+        General government,2014,107.276,666.8,621.5742570565644
+        General government,2014,107.276,1421.1,1324.7138222901674
+        General government,2015,104.852,673.7,642.5247014839964
+        General government,2015,104.852,1467.3,1399.4010605424787
+        General government,2015,109.974,673.7,612.5993416625748
+        General government,2015,109.974,1467.3,1334.2244530525397
+        General government,2016,105.96,683.9,645.4322385805965
+        General government,2016,105.96,1498.6,1414.3072857682146
+        General government,2016,111.055,683.9,615.8209895997478
+        General government,2016,111.055,1498.6,1349.421457836207
+        General government,2017,108.206,699.3,646.2673049553629
+        General government,2017,108.206,1541.2,1424.3202779882815
+        General government,2017,113.107,699.3,618.2641215839868
+        General government,2017,113.107,1541.2,1362.6035523884464
+        General government,2018,111.776,726.0,649.5133123389637
+        General government,2018,111.776,1606.1,1436.8916404237048
+        General government,2018,116.899,726.0,621.0489396829742
+        General government,2018,116.899,1606.1,1373.92107716918
+        General government,2019,114.174,749.4,656.366598349887
+        General government,2019,114.174,1656.1,1450.5053689981958
+        General government,2019,119.255,749.4,628.401324892038
+        General government,2019,119.255,1656.1,1388.7048761058236
+        General government,2020,116.022,782.5,674.4410542828084
+        General government,2020,116.022,1689.4,1456.1031528503215
+        General government,2020,123.395,782.5,634.1423882653269
+        General government,2020,123.395,1689.4,1369.0992341667006
+            National defense,2010,96.958,393.5,405.8458301532622
+            National defense,2011,98.973,407.1,411.32430056682125
+            National defense,2012,100.0,407.6,407.6
+            National defense,2013,100.41,400.1,398.46628821830495
+            National defense,2014,102.169,400.0,391.5081874149693
+            National defense,2015,103.868,398.4,383.5637539954557
+            National defense,2016,104.743,399.1,381.0278491164088
+            National defense,2017,106.39,403.9,379.6409436977159
+            National defense,2018,109.594,418.0,381.40774129970623
+            National defense,2019,111.734,430.9,385.6480569925
+            National defense,2020,113.955,447.6,392.7866262998552
+            Nondefense,2010,97.737,246.5,252.2074546998578
+            Nondefense,2011,99.877,252.6,252.91108062917388
+            Nondefense,2012,100.0,256.1,256.1
+            Nondefense,2013,101.9,258.3,253.48380765456326
+            Nondefense,2014,104.512,266.8,255.28169014084506
+            Nondefense,2015,106.395,275.3,258.75276093801403
+            Nondefense,2016,107.846,284.8,264.08026259666565
+            Nondefense,2017,110.952,295.3,266.15112841589155
+            Nondefense,2018,115.049,308.0,267.71201835739555
+            Nondefense,2019,117.818,318.5,270.3322073027891
+            Nondefense,2020,119.144,334.9,281.08843080641907
+        Government enterprises,2010,98.459,57.5,58.399943123533646
+        Government enterprises,2010,98.459,104.4,106.03398368864197
+        Government enterprises,2010,96.812,57.5,59.39346362021237
+        Government enterprises,2010,96.812,104.4,107.83787133826387
+        Government enterprises,2011,98.647,52.5,53.22006751345707
+        Government enterprises,2011,98.647,111.7,113.23202935720295
+        Government enterprises,2011,96.864,52.5,54.19970267591675
+        Government enterprises,2011,96.864,111.7,115.31631978856954
+        Government enterprises,2012,100.0,50.2,50.2
+        Government enterprises,2012,100.0,120.1,120.1
+        Government enterprises,2012,100.0,50.2,50.2
+        Government enterprises,2012,100.0,120.1,120.1
+        Government enterprises,2013,100.265,45.4,45.28000797885603
+        Government enterprises,2013,100.265,127.8,127.46222510347579
+        Government enterprises,2013,103.718,45.4,43.77253707167512
+        Government enterprises,2013,103.718,127.8,123.21872770396652
+        Government enterprises,2014,106.283,49.0,46.10332790756753
+        Government enterprises,2014,106.283,134.4,126.45484226075668
+        Government enterprises,2014,110.523,49.0,44.334663373234534
+        Government enterprises,2014,110.523,134.4,121.6036481094433
+        Government enterprises,2015,112.444,57.6,51.22549891501547
+        Government enterprises,2015,112.444,140.8,125.21788623670449
+        Government enterprises,2015,123.408,57.6,46.67444574095683
+        Government enterprises,2015,123.408,140.8,114.09308958900557
+        Government enterprises,2016,109.189,59.1,54.126331407009864
+        Government enterprises,2016,109.189,142.6,130.59923618679537
+        Government enterprises,2016,124.802,59.1,47.355010336372814
+        Government enterprises,2016,124.802,142.6,114.26098940722102
+        Government enterprises,2017,107.549,62.5,58.11304614640768
+        Government enterprises,2017,107.549,144.2,134.0784200689918
+        Government enterprises,2017,122.927,62.5,50.84318335272153
+        Government enterprises,2017,122.927,144.2,117.3053926313991
+        Government enterprises,2018,107.034,63.4,59.233514584150825
+        Government enterprises,2018,107.034,150.8,140.88981071435245
+        Government enterprises,2018,125.949,63.4,50.33783515549945
+        Government enterprises,2018,125.949,150.8,119.7310022310618
+        Government enterprises,2019,108.634,62.0,57.072371449085914
+        Government enterprises,2019,108.634,154.3,142.03656313861222
+        Government enterprises,2019,135.262,62.0,45.83696825420296
+        Government enterprises,2019,135.262,154.3,114.07490647779866
+        Government enterprises,2020,111.018,65.9,59.3597434650237
+        Government enterprises,2020,111.018,132.9,119.71031724585204
+        Government enterprises,2020,138.107,65.9,47.716625514999244
+        Government enterprises,2020,138.107,132.9,96.22973491568132
+    State and local,2010,96.19,1410.5,1466.3686453893336
+    State and local,2011,97.701,1424.8,1458.326936264726
+    State and local,2012,100.0,1445.6,1445.6
+    State and local,2013,104.276,1508.7,1446.833403659519
+    State and local,2014,107.552,1555.5,1446.2771496578398
+    State and local,2015,111.07,1608.2,1447.9157288196634
+    State and local,2016,112.176,1641.2,1463.058051633148
+    State and local,2017,113.92,1685.3,1479.371488764045
+    State and local,2018,117.651,1756.9,1493.3149739483729
+    State and local,2019,120.551,1810.3,1501.6880822224616
+    State and local,2020,124.604,1822.3,1462.4731148277742
